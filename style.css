@@ -1,0 +1,30 @@
+.Centered {
+  color: blue;
+  font-family: comic sans ms;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+Body {
+  background-color: rgb(247,202,70)
+}
+
+.nav-bar {
+  background-color: orange;
+  overflow: hidden;
+}
+
+.nav-bar a {
+  color: cyan;
+  background-color: orange;
+  font-size: 20px;
+  font-family: comic sans ms;
+  text-decoration: none;
+  padding: 14px 10px;
+}
+
+.nav-bar a:hover {
+  color: orange;
+  background-color: cyan;
+}
