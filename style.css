@@ -1,9 +1,8 @@
 .Centered {
-  color: blue;
-  font-family: comic sans ms;
   display: block;
   margin-right: auto;
   margin-left: auto;
+  border-radius: 3px;
 }
 
 Body {
@@ -13,6 +12,7 @@ Body {
 .nav-bar {
   background-color: orange;
   overflow: hidden;
+  border-radius: 3px;
 }
 
 .nav-bar a {
